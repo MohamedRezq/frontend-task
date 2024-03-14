@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Mobile Apps",
+    "subTitle": "Get your own mobile app ",
+    "dtsuCount": 100,
+    "contentBgColor": "#0A488F",
+    "image": "/img/card-1.png"
+  },
+  {
+    "title": "BI",
+    "subTitle": "Create Dashboards ",
+    "dtsuCount": 100,
+    "contentBgColor": "#579064",
+    "image": "/img/card-2.png"
+  },
+  {
+    "title": "HR",
+    "subTitle": "Talents",
+    "dtsuCount": 50,
+    "contentBgColor": "#950000",
+    "image": "/img/card-3.png"
+  },
+  {
+    "title": "Operations",
+    "subTitle": "ERP Management",
+    "dtsuCount": 100,
+    "contentBgColor": "#8F6C0A",
+    "image": "/img/card-4.png"
+  }
+]

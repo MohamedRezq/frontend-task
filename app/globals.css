@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      #97E0F3
+    )
+    #FFFFFF;
+    padding: 0 !important;
+}
+
+a {
+  color: #0097C2;
+  text-decoration: none;
+}
+
+.skewedDiv {
+  z-index: -10;
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      #00244D
+    )
+    #1769C6;
+    transform: skewX(-40deg);
+    overflow: hidden;
+    right: calc(-50vw);
+}
